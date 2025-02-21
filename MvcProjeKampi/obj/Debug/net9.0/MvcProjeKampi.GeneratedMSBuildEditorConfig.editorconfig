@@ -28,6 +28,22 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/AdminCategory/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxBZGRDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/AdminCategory/EditCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxFZGl0Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/AdminCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Category/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -40,6 +56,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Content/ContentByHeading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudFxDb250ZW50QnlIZWFkaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Heading/AddHeading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhZGluZ1xBZGRIZWFkaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Heading/ContentByHeading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhZGluZ1xDb250ZW50QnlIZWFkaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Heading/EditHeading.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhZGluZ1xFZGl0SGVhZGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Heading/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVhZGluZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -50,6 +90,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Shared/PartialViews/AboutPartialView/_AboutPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxWaWV3c1xBYm91dFBhcnRpYWxWaWV3XF9BYm91dFBhcnRpYWxWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Shared/_Deneme.cshtml]
@@ -66,6 +114,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Test/Test2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxUZXN0Mi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Writer/AddWriter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEFkZFdyaXRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Writer/EditWriter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEVkaXRXcml0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/Writer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/abdul/OneDrive/Masaüstü/asp.net core project/Murat Yücedağ/MvcProjeKampi/MvcProjeKampi/Views/_ViewImports.cshtml]

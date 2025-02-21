@@ -1,7 +1,10 @@
 ﻿using BusinessLayer.Concrete;
+using BusinessLayer.ValidationRules;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
+using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace MvcProjeKampi.Controllers
 {
@@ -30,8 +33,22 @@ namespace MvcProjeKampi.Controllers
         [HttpPost]
         public IActionResult AddCategory(Category p)
         {
-            //cm.CategoryAddBL(p);
-            return RedirectToAction("GetCategoryList");
+            CategoryValidator validationRules = new CategoryValidator();
+            ValidationResult results = validationRules.Validate(p);
+            if (results.IsValid)
+            {
+                cm.CategoryAddBL(p);
+                return RedirectToAction("GetCategoryList");
+
+            }
+            else
+            {
+                foreach (var item in results.Errors)
+                {
+                    ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
+                }
+            }
+            return View();
         }
         //AddCategory
     }

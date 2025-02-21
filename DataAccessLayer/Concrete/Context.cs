@@ -12,7 +12,7 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=.\\SQLEXPRESS; database=MvcProjeKampi; integrated security=true; TrustServerCertificate=true");
+            optionsBuilder.UseSqlServer("server=.\\SQLEXPRESS; database=MvcProjeKampi; integrated security=true; TrustServerCertificate=true; MultipleActiveResultSets=True");
         }
 
         //protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -36,5 +36,6 @@ namespace DataAccessLayer.Concrete
         public DbSet<Contact> Contacts { get; set; }
         public DbSet<Content> Contents { get; set; }
         public DbSet<Writer> Writers { get; set; }
+        public DbSet<Heading> Headings{ get; set; }
     }
 }

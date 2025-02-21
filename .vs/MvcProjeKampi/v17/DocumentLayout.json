@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59CC3B4A-19E3-40B4-981B-C59E42FA6BB5}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\dataaccesslayer\\concrete\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59CC3B4A-19E3-40B4-981B-C59E42FA6BB5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\concrete\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\mvcprojekampi\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59CC3B4A-19E3-40B4-981B-C59E42FA6BB5}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59CC3B4A-19E3-40B4-981B-C59E42FA6BB5}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\mvcprojekampi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\mvcprojekampi\\views\\category\\getcategorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\views\\category\\getcategorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\mvcprojekampi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\businesslayer\\validationrules\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\validationrules\\contactvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\businesslayer\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\mvcprojekampi\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\mvcprojekampi\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCEDBFF0-1E68-420A-9309-D386B72C515C}|MvcProjeKampi\\MvcProjeKampi.csproj|solutionrelative:mvcprojekampi\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\asp.net core project\\murat y\u00FCceda\u011F\\mvcprojekampi\\businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A858BF4C-2A20-4AFE-ADB8-CB3E4D79195F}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,89 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "MvcProjeKampi\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "MvcProjeKampi\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "MvcProjeKampi\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "MvcProjeKampi\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T09:29:38.805Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcProjeKampi\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "MvcProjeKampi\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T09:34:01.603Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetCategoryList.cshtml",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Views\\Category\\GetCategoryList.cshtml",
-              "RelativeDocumentMoniker": "MvcProjeKampi\\Views\\Category\\GetCategoryList.cshtml",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Views\\Category\\GetCategoryList.cshtml",
-              "RelativeToolTip": "MvcProjeKampi\\Views\\Category\\GetCategoryList.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T10:28:58.48Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddCategory.cshtml",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Views\\Category\\AddCategory.cshtml",
-              "RelativeDocumentMoniker": "MvcProjeKampi\\Views\\Category\\AddCategory.cshtml",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Views\\Category\\AddCategory.cshtml",
-              "RelativeToolTip": "MvcProjeKampi\\Views\\Category\\AddCategory.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-11T10:55:58.448Z",
+              "WhenOpened": "2025-02-21T16:47:19.89Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Concrete\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T11:06:28.515Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\Concrete\\CategoryManager.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\CategoryManager.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\Concrete\\CategoryManager.cs",
-              "RelativeToolTip": "BusinessLayer\\Concrete\\CategoryManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T11:00:21.289Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcProjeKampi\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\MvcProjeKampi\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "MvcProjeKampi\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAKMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T16:48:13.084Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -134,28 +66,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EfCategoryDal.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "RelativeToolTip": "DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ContactValidator.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\ValidationRules\\ContactValidator.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\ValidationRules\\ContactValidator.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\ValidationRules\\ContactValidator.cs",
+              "RelativeToolTip": "BusinessLayer\\ValidationRules\\ContactValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:47:14.977Z",
+              "WhenOpened": "2025-02-21T17:11:33.135Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\Abstract\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\Abstract\\ICategoryService.cs",
-              "RelativeToolTip": "BusinessLayer\\Abstract\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ContactManager.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\Concrete\\ContactManager.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Concrete\\ContactManager.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\Concrete\\ContactManager.cs",
+              "RelativeToolTip": "BusinessLayer\\Concrete\\ContactManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:40:29.304Z",
+              "WhenOpened": "2025-02-21T17:00:20.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IContactService.cs",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Masa\u00FCst\u00FC\\asp.net core project\\Murat Y\u00FCceda\u011F\\MvcProjeKampi\\BusinessLayer\\Abstract\\IContactService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IContactService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:57:58.835Z",
               "EditorCaption": ""
             }
           ]

@@ -91,8 +91,8 @@ namespace DataAccessLayer.Migrations
 
                     b.Property<string>("ContactMessage")
                         .IsRequired()
-                        .HasMaxLength(10)
-                        .HasColumnType("nvarchar(10)");
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
 
                     b.Property<string>("ContactSubject")
                         .IsRequired()
@@ -125,6 +125,9 @@ namespace DataAccessLayer.Migrations
                     b.Property<DateTime>("ContentDate")
                         .HasColumnType("datetime2");
 
+                    b.Property<bool>("ContentStatus")
+                        .HasColumnType("bit");
+
                     b.Property<string>("ContentValue")
                         .IsRequired()
                         .HasMaxLength(1000)
@@ -133,7 +136,7 @@ namespace DataAccessLayer.Migrations
                     b.Property<int>("HeadingID")
                         .HasColumnType("int");
 
-                    b.Property<int?>("WriterID")
+                    b.Property<int>("WriterID")
                         .HasColumnType("int");
 
                     b.HasKey("ContentID");
@@ -153,7 +156,7 @@ namespace DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("HeadingID"));
 
-                    b.Property<int>("CategoryID")
+                    b.Property<int?>("CategoryID")
                         .HasColumnType("int");
 
                     b.Property<DateTime>("HeadingDate")
@@ -164,7 +167,10 @@ namespace DataAccessLayer.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
-                    b.Property<int>("WriterID")
+                    b.Property<bool>("HeadingStatus")
+                        .HasColumnType("bit");
+
+                    b.Property<int?>("WriterID")
                         .HasColumnType("int");
 
                     b.HasKey("HeadingID");
@@ -173,7 +179,7 @@ namespace DataAccessLayer.Migrations
 
                     b.HasIndex("WriterID");
 
-                    b.ToTable("Heading");
+                    b.ToTable("Headings");
                 });
 
             modelBuilder.Entity("EntityLayer.Concrete.Writer", b =>
@@ -184,15 +190,19 @@ namespace DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("WriterID"));
 
-                    b.Property<string>("WriterImage")
+                    b.Property<string>("WriterAbout")
                         .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.Property<string>("WriterMail")
+                    b.Property<string>("WriterImage")
                         .IsRequired()
-                        .HasMaxLength(50)
-                        .HasColumnType("nvarchar(50)");
+                        .HasMaxLength(250)
+                        .HasColumnType("nvarchar(250)");
+
+                    b.Property<string>("WriterMail")
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
 
                     b.Property<string>("WriterName")
                         .IsRequired()
@@ -200,11 +210,18 @@ namespace DataAccessLayer.Migrations
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("WriterPassword")
-                        .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<bool>("WriterStatus")
+                        .HasColumnType("bit");
 
                     b.Property<string>("WriterSurName")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
+
+                    b.Property<string>("WriterTitle")
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
@@ -224,7 +241,9 @@ namespace DataAccessLayer.Migrations
 
                     b.HasOne("EntityLayer.Concrete.Writer", "Writer")
                         .WithMany("Contents")
-                        .HasForeignKey("WriterID");
+                        .HasForeignKey("WriterID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Heading");
 
@@ -235,15 +254,11 @@ namespace DataAccessLayer.Migrations
                 {
                     b.HasOne("EntityLayer.Concrete.Category", "Category")
                         .WithMany("Headings")
-                        .HasForeignKey("CategoryID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("CategoryID");
 
                     b.HasOne("EntityLayer.Concrete.Writer", "Writer")
                         .WithMany("Headings")
-                        .HasForeignKey("WriterID")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("WriterID");
 
                     b.Navigation("Category");
 

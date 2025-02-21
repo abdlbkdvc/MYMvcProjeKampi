@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.EntityFramework
 {
-    internal class EfContentDal 
+    public class EfContentDal : GenericRepository<Content>, IContentDal
     {
     }
 }
